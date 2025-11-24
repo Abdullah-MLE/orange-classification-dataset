@@ -2,3 +2,10 @@ old
 orange_classification_dataset
 orange_detection_dataset
 test.py
+
+venv/
+__pycache__/
+*.pyc
+# *.pt
+.DS_Store
+*.log
